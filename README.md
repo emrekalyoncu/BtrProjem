@@ -1,2 +1,2 @@
 # BtrProjem
-Bitirme
+Bitirme projem
